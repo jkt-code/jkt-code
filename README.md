@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jkt-code
-- 👀 I’m interested in fintech
+- 👀 I’m interested in creating practical solutions for insurance and finance sectors
 - 🌱 I’m currently learning developing SaaS apps and intergrating ml and ai
 - 💞️ I’m looking to collaborate on fintech related projects
 - 📫 How to reach me jktfintechlabs@gmail.com
