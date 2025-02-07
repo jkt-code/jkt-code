@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating practical solutions for insurance and finance sectors
 - 🌱 I’m currently learning developing SaaS apps and intergrating ml and ai
 - 💞️ I’m looking to collaborate on finance and insurance related projects
-- 📫 How to reach me jktfintechlabs@gmail.com
+- 📫 How to reach me jktfintechlabs@gmail.com or jebetkiptarus@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm dark skinned :)
 
