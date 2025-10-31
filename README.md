@@ -21,16 +21,13 @@ Welcome to my GitHub! I specialize in crafting full-stack fintech platforms that
   Cooperative management system using escrow logic to support coffee farmers in Baringo.  
   _Tech:_ Escrow Logic, Automated Distribution, Tendering System
 
-## 🧠 Core Skills
+## Core Skills
 
 - **Full-Stack Dev:** Python, FastAPI, Node.js, React, Flutter, TypeScript  
 - **Cloud & DevOps:** Docker, Redis, Supabase, AWS, CI/CD  
 - **Data & AI:** Machine Learning, NLP, Predictive Modeling  
 - **Fintech Integration:** M-Pesa API, STK Push, Paystack  
 - **Design:** Figma, Adobe Suite, UX/UI Design
-
-## 🎓 Education  
-**BSc in Actuarial Science** — Graduated November 2023
 
 ## 📫 Let's Connect  
 📧 jktfintechlabs@gmail.com  
