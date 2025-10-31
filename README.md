@@ -35,7 +35,7 @@ Welcome to my GitHub! I specialize in crafting full-stack fintech platforms that
 ## 📫 Let's Connect  
 📧 jktfintechlabs@gmail.com  
 📱 +254 725 521 311  
-🔗 [Kaggle](#) • [Upwork](#) • [Design Portfolio](#)
+🔗 [Kaggle](https://www.kaggle.com/cheekylogos/code) • [Upwork](upwork.com/freelancers/~012dcddf30c4ba18db?__cf_chl_rt_tk=PaMjgeQWOfVGPE4jBd6ITM.czJSvu4dCLdvQgorgN_I-1761909033-1.0.1.1-5k.bxdxEOXjkzxRf3sy66emP9TdYZtZQeTGeFDU.NO0) • [Design Portfolio](https://jktlabs.website/)
 
 ---
 
