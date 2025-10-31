@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JKT — Founder of JKTFINTECHLABS  
+# 👋 Hi, I'm Jebet Kiptarus — Founder of JKTFINTECHLABS  
 **Building Intelligent Fintech Solutions for Africa**
 
 Welcome to my GitHub! I specialize in crafting full-stack fintech platforms that solve real-world challenges across the African continent. From intuitive analytics to cooperative management systems, I build tools that empower businesses and communities.
